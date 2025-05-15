@@ -8,3 +8,4 @@ Este painel em Power BI foi desenvolvido com dados simulados para análise de de
 - Calcular indicadores como total vendido, ticket médio e média de vendas
 
 ![Dashboard Preview](./caminho/para/imagem.png)
+![image](https://github.com/user-attachments/assets/7e160510-e072-4b3b-a47f-5edd9eb846fa)
