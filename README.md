@@ -9,3 +9,5 @@ Este painel em Power BI foi desenvolvido com dados simulados para análise de de
 
 !Dashboard Preview([./caminho/para/imagem.png](https://github.com/user-attachments/assets/7e160510-e072-4b3b-a47f-5edd9eb846fa)
 
+
+!link acesso direto : https://docs.google.com/spreadsheets/d/15JpCOb5XmZrQb_P2DhZ62JNBJQnIe5Tef8agi6DUBRA/edit?gid=1526317744#gid=1526317744
